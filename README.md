@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WahtuAstrawan
 - 👀 I’m interested in Programming World 
 - 🌱 I’m currently learning C 
-- 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me 
 - wahtuastrawan08@gmail.com
 
