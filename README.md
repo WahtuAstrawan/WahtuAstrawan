@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WahtuAstrawan
-- 👀 I’m interested in Programming World 
-- 🌱 I’m currently learning C 
+- 👀 I’m interested in Programming World and Meme too :)
+- 🌱 I’m currently learning Javascript and Python
 - 📫 How to reach me 
 - wahtuastrawan08@gmail.com
 
