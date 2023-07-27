@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **My computer science degree**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack and Python**
 
 - 📫 How to reach me **wahtuastrawan08@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny, but not really :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
