@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN stack and Python**
   
-- 💻 Visit my personal portfolio website at https://wahtu-astrawan-portfolio.netlify.app/
+- 💻 View all my project and experience at <a href="https://wahtu-astrawan-portfolio.netlify.app/"/>My personal website</a>
 
 - 📫 How to reach me **wahtuastrawan08@gmail.com**
 
