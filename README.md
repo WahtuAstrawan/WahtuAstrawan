@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on **My computer science degree**
 
 - 🌱 I’m currently learning **MERN stack and Python**
+  
+- 💻 Visit my personal portfolio website at https://wahtu-astrawan-portfolio.netlify.app/
 
 - 📫 How to reach me **wahtuastrawan08@gmail.com**
 
