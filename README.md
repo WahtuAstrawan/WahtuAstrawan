@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahtuastrawan&label=Profile%20views&color=0e75b6&style=flat" alt="wahtuastrawan" /> </p>
 
-- 🔭 I’m currently working on **My computer science degree**
+- 🔭 I’m currently working on **My Computer Science Degree**
 
-- 🌱 I’m currently learning **MERN stack and Python**
+- 🌱 I’m currently learning **HTMX and Golang**
   
 - 💻 View all my project and experience at <a href="https://wahtu-astrawan-portfolio.netlify.app/"/>My personal website</a>
 
