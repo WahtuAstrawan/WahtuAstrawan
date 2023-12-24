@@ -8,7 +8,7 @@ I started learning programming 3 years ago, and to this day my love for the worl
 * 🌍  I'm based in Denpasar, Bali
 * 🖥️  See my portfolio at [My Website (not updated)](http://wahtu-astrawan-portfolio.netlify.app/)
 * ✉️  You can contact me at [wahtuastrawan08@gmail.com](mailto:wahtuastrawan08@gmail.com)
-* 🧠  I'm currently learning HTMX and Golang
+* 🧠  I'm currently learning HTMX, SolidJS, and Golang
 * 🤝  I'm open to collaborating on Web and Android Project
 * ⚡  I really like read article and memes
 
