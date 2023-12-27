@@ -3,9 +3,9 @@ Hi My name is Wahtu Astrawan
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahtuastrawan&label=Profile%20views&color=0e75b6&style=flat" alt="wahtuastrawan" /> </p>
+<p align="justify"> <img src="https://komarev.com/ghpvc/?username=wahtuastrawan&label=Profile%20views&color=0e75b6&style=flat" alt="wahtuastrawan" /> </p>
 I started learning programming 3 years ago, and to this day my love for the world of technology continues. I really like to learn new things, especially things related to technology. You can see the projects I have completed here
-<br/>
+
 * 🌍  I'm based in Denpasar, Bali
 * 🖥️  See my portfolio at [My Website (not updated)](http://wahtu-astrawan-portfolio.netlify.app/)
 * ✉️  You can contact me at [wahtuastrawan08@gmail.com](mailto:wahtuastrawan08@gmail.com)
