@@ -13,7 +13,7 @@ I started learning programming 3 years ago, and to this day my love for the worl
 * 🤝  I'm open to collaborating on Web and Android Project
 * ⚡  I really like read article and memes
 
-### Skills
+### Language and Tools
 
 
 <p align="left">
