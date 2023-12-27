@@ -3,6 +3,7 @@ Hi My name is Wahtu Astrawan
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahtuastrawan&label=Profile%20views&color=0e75b6&style=flat" alt="wahtuastrawan" /> </p>
 I started learning programming 3 years ago, and to this day my love for the world of technology continues. I really like to learn new things, especially things related to technology. You can see the projects I have completed here
 
 * 🌍  I'm based in Denpasar, Bali
@@ -31,7 +32,4 @@ I started learning programming 3 years ago, and to this day my love for the worl
 </p>
 
 ### My GitHub Stats
-
-<a href="http://www.github.com/WahtuAstrawan"><img src="https://github-readme-stats.vercel.app/api?username=WahtuAstrawan&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="WahtuAstrawan's GitHub stats" /></a>
-
-<a href="http://www.github.com/WahtuAstrawan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WahtuAstrawan&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahtuastrawan&" alt="wahtuastrawan" /></p>
