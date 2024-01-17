@@ -3,12 +3,12 @@ Hi My name is Wahtu Astrawan
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left">I started learning programming 3 years ago, and to this day my love for the world of technology continues. I really like to learn new things, especially things related to technology. You can see the projects I have completed here</p>
+<p align="left">I started learning programming from 2021, and to this day my love for the world of technology continues. I really like to learn new things, especially things related to technology. You can see the projects I have completed here</p>
 
 * 🌍  I'm based in Denpasar, Bali
 * 🖥️  See my portfolio at [My Website (not updated)](http://wahtu-astrawan-portfolio.netlify.app/)
 * ✉️  You can contact me at [wahtuastrawan08@gmail.com](mailto:wahtuastrawan08@gmail.com)
-* 🧠  I'm currently learning HTMX, SolidJS, and Golang
+* 🧠  I'm currently learning SolidJS, and Golang
 * 🤝  I'm open to collaborating on Web and Android Project
 * ⚡  I really like read article and memes
 
