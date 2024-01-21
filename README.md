@@ -5,7 +5,7 @@ Hi My name is Wahtu Astrawan
 
 <p align="left">I started learning programming from 2021, and to this day my love for the world of technology continues. I really like to learn new things, especially things related to technology. You can see the projects I have completed here</p>
 
-* 🌍  I'm based in Denpasar, Bali
+* 🌍  I'm based in Denpasar, Bali, Indonesia
 * 🖥️  See my portfolio at [My Website (not updated)](http://wahtu-astrawan-portfolio.netlify.app/)
 * ✉️  You can contact me at [wahtuastrawan08@gmail.com](mailto:wahtuastrawan08@gmail.com)
 * 🧠  I'm currently learning SolidJS and Golang
