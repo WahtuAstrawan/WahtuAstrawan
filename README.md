@@ -23,10 +23,10 @@ Hi My name is Wahtu Astrawan
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/wahtu04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wahtu04" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/i-gusti-ngurah-putu-astrawan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igustingurahputuastrawan" height="30" width="40" /></a>
-<a href="https://instagram.com/wahtu.astrawan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wahtu.astrawan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wahtuastrawan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wahtuastrawan" height="30" width="40" /></a>
+<a href="https://twitter.com/wahtu04" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wahtu04" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/i-gusti-ngurah-putu-astrawan/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igustingurahputuastrawan" height="30" width="40" /></a>
+<a href="https://instagram.com/wahtu.astrawan" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wahtu.astrawan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/wahtuastrawan" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wahtuastrawan" height="30" width="40" /></a>
 </p>
 
 ### My GitHub Stats:
