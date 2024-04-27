@@ -7,7 +7,7 @@ Hi My name is Wahtu Astrawan
 
 * 🌍  I'm based in Denpasar, Bali, Indonesia
 * 🖥️  See my portfolio at [My Website (not updated)](http://wahtu-astrawan-portfolio.netlify.app/)
-* ✉️  You can contact me at [wahtuastrawan08@gmail.com](mailto:wahtuastrawan08@gmail.com)
+* ✉️  You can contact me from my Linkedin, Instagram, or X (link below)
 * 🧠  I'm currently learning SolidJS and Go
 * 🤝  I'm open to collaborating on Web and Android Project
 * ⚡  I really like read article and memes
