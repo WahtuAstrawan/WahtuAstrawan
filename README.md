@@ -3,7 +3,7 @@ Hi My name is Wahtu Astrawan
 <p align="left">I started learning programming from 2021, and to this day my love for the world of technology continues. I really like to learn new things, especially things related to technology. You can see all the projects I have completed here</p>
 
 * I'm based in Denpasar, Bali, Indonesia
-* You can contact me from my Linkedin, Instagram, or X (link below)
+* For business inquiries, you can contact me via WhatsApp at (+62) 0821 4707 4298
 * I'm currently learning Flutter, NextJS, and Go
 * I am open to collaborate and accept orders for creating web and mobile application
 * I really like read article and memes
