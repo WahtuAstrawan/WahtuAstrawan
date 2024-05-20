@@ -5,7 +5,7 @@ Hi My name is Wahtu Astrawan
 * I'm based in Denpasar, Bali, Indonesia
 * You can contact me from my Linkedin, Instagram, or X (link below)
 * I'm currently learning Flutter, NextJS, and Go
-* I am open to collaborate and accept orders for creating web and mobile application projects
+* I am open to collaborate and accept orders for creating web and mobile application
 * I really like read article and memes
 
 ### Connect with me:
