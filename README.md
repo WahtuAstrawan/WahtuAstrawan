@@ -1,6 +1,5 @@
 <p align="left">I started learning programming from 2021, and to this day my love for the world of technology continues. I really like to learn new things, especially things related to technology. You can see all the projects I have completed here</p>
 
-### Connect:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/i-gusti-ngurah-putu-astrawan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igustingurahputuastrawan" height="30" width="40" /></a>
