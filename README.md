@@ -11,5 +11,5 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahtuastrawan&theme=black" alt="wahtuastrawan" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WahtuAstrawan&theme=tokyonight&hide_border=false)<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahtuastrawan&label=Profile%20views&color=0e75b6&style=flat" alt="wahtuastrawan" /></p>
