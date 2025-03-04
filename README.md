@@ -1,7 +1,7 @@
 ### Hello ///
 
 
-<p align="left">I started learning programming from 2021, and to this day my love for the world of technology continues. I really like to learn new things, especially things related to technology. You can see all the projects I have completed here.</p>
+<p align="left">I began my programming journey in 2021, with a strong focus on web and mobile development. I'm passionate about exploring new technologies and continuously expanding my skills. Feel free to check out my completed projects here!</p>
 
 
 #### Connect ///
